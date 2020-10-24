@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>morphology</title>
-    <url>/2020/10/24/morphology/</url>
-    <content><![CDATA[<p>ApJ 672, 177</p>
-<p>Title: The evolution of galaxy mergers and morphology at z &lt; 1.2 in the extended groth strip</p>
-<p>Using Gini coefficient and $M_{20}$ to search for galaxy mergers</p>
+    <title>hexo配置标签和分类</title>
+    <url>/2020/10/24/hexo%E9%85%8D%E7%BD%AE%E6%A0%87%E7%AD%BE%E5%92%8C%E5%88%86%E7%B1%BB/</url>
+    <content><![CDATA[<p><strong><em>配置个人主页的侧边栏时花了好大的功夫在侧边栏上，主要是标签和分类。下面总结一下这两项的配置过程：</em></strong></p>
+<ul>
+<li><h3 id="标签"><a href="#标签" class="headerlink" title="标签"></a>标签</h3><p>首先，要在侧边栏添加标签这一项，需要在主题文件夹中的配置文件_config.yml的menu栏添加一行：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">menu:</span><br><span class="line">  主页：&#x2F;</span><br><span class="line">  归档：&#x2F;archives</span><br><span class="line">  标签：&#x2F;tags  # 这一行是新添加进去的</span><br><span class="line">  关于：&#x2F;about</span><br></pre></td></tr></table></figure>
+
+<p>这一步做完后重新进入主页我们会发现侧边栏多了一个选项“标签”，但是点击“标签”会发现页面提示 Cannot GET /tags/ ，这是因为我们现在只是在网页上创建了标签这个选项，但是并没有为它的内容（点击之后跳转的页面）进行配置。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo new page tags</span><br><span class="line"># 执行完上面语句后会发现source文件夹中多了一个名为tags的文件夹</span><br><span class="line"># 进入tags文件夹，修改其中的index.md</span><br><span class="line"># 修改后的index.md为</span><br><span class="line">---</span><br><span class="line">title: tags</span><br><span class="line">type: tags  # 这一行是新添加进去的</span><br><span class="line">layout: &quot;tags&quot;   # 这一行是新添加进去的</span><br><span class="line">date: 2020-10-24 22:06:27</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p><font color="red" size="5">注意，layout一定不要忘了！！！</font>它是用来规定tags页面的布局的，由使用的主题中的配置文件决定。如果这一项丢了的话tags的页面会变成普通的post格式。（别问我怎么知道的…）</p>
+<p>到此对tags的配置就做完了。我们可以新建一个post文档并为其设置一个标签来看看效果：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo new post test_tags</span><br><span class="line">$ vi source&#x2F;_posts&#x2F;test_tags.md</span><br><span class="line"># 进入test_tags.md文件中，初始文件内容如下</span><br><span class="line">---</span><br><span class="line">title: test_tags</span><br><span class="line">date: 2020-10-24 23:16:19</span><br><span class="line">tags:</span><br><span class="line">---</span><br><span class="line"></span><br><span class="line"># 我们在tags这一行为该文档添加一个合适的标签，修改后文件的内容为</span><br><span class="line">---</span><br><span class="line">title: test_tags</span><br><span class="line">date: 2020-10-24 23:16:19</span><br><span class="line">tags: test  # 注意冒号后面一定要有一个空格</span><br><span class="line">---</span><br><span class="line"></span><br><span class="line"># 保存退出，重新载入页面，我们会发现test_tags这一文档会有test这么一个标签。</span><br><span class="line"># 点击侧边栏的标签项，会发现其中显示了所有存在的标签</span><br></pre></td></tr></table></figure>
+
+
+
+</li>
+</ul>
+<ul>
+<li><h3 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h3><p>分类的配置方法和标签相同，只不过是把tags换成categories，同样要注意layout一定不要忘了。</p>
+</li>
+</ul>
 ]]></content>
+      <categories>
+        <category>Technique</category>
+      </categories>
       <tags>
-        <tag>astro_ph</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -28,5 +48,19 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>morphology</title>
+    <url>/2020/10/24/morphology/</url>
+    <content><![CDATA[<p>ApJ 672, 177</p>
+<p>Title: The evolution of galaxy mergers and morphology at z &lt; 1.2 in the extended groth strip</p>
+<p>Using Gini coefficient and $M_{20}$ to search for galaxy mergers</p>
+]]></content>
+      <categories>
+        <category>Astrophysics</category>
+      </categories>
+      <tags>
+        <tag>astro_ph</tag>
+      </tags>
   </entry>
 </search>
