@@ -22,13 +22,13 @@ repository               : "astroXiao/astroXiao.github.io"
 author:
   # Biographic information
   avatar           : "xiaoli.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Astronomer working on galaxy formation and evolution"
+  location         : "Beijing, China"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xli27938@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
