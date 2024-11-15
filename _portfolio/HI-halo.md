@@ -8,7 +8,7 @@ date: false
 
 <figure style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <div style="text-align: center;">
-        <img src="/files/CHIMF.pdf" width="800", height="900", alt="CHIMF" style="margin-right: 10px;"> 
+        <img src="/files/CHIMF.png" width="800", height="900", alt="CHIMF" style="margin-right: 10px;"> 
         <figcaption style="width: 800px;">Conditional HI mass function at z=0. Each panel represents galaxy groups with a fixed halo mass.</figcaption> 
     </div>
 </figure>
