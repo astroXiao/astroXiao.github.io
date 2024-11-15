@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download the complete CV at {% url_for "here" /files/CV.pdf %}
+
 Education
 ======
 * Ph.D in Astrophysics, Tsinghua University, Aug 2019 - June 2024
