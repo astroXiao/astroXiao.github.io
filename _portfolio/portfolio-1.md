@@ -13,7 +13,7 @@ collection: portfolio
     </div>
 </figure>
 
-    The conditional HI mass function (CHIMF) can be well described by a single Schechter function in all halos. Central galaxies contributes to the majority of the HI gas in halos of $\rm M_h < 10^{12}M_{\odot}$, while satellite galaxies dominate the HI budget in halos of $\rm M_h > 10^{13}M_{\odot}$. Our measurement of HI-halo mass relation (black solid line) is consistent with that measured by HI spectral stacking (black open circles). The total HI mass in dark matter halos increases with halo mass, while the HI mass of central galaxies only weakly depends on halo mass when $\rm M_h > 10^{12}M_{\odot}$. Semi-analytical models (e.g., L-GALAXIES) and hydrodynamic simulations (e.g., Illustris, IllustrisTNG) can not reproduce the observed HI-halo mass relation.
+    The conditional HI mass function (CHIMF) can be well described by a single Schechter function in all halos. Central galaxies contribute to the majority of the HI gas in halos of $\rm M_h < 10^{12}M_{\odot}$, while satellite galaxies dominate the HI budget in halos of $\rm M_h > 10^{13}M_{\odot}$. Our measurement of HI-halo mass relation (black solid line) is consistent with that measured by HI spectral stacking (black open circles). The total HI mass in dark matter halos increases with halo mass, while the HI mass of central galaxies only weakly depends on halo mass when $\rm M_h > 10^{12}M_{\odot}$. Semi-analytical models (e.g., L-GALAXIES) and hydrodynamic simulations (e.g., Illustris, IllustrisTNG) can not reproduce the observed HI-halo mass relation.
 
 <figure style="display: flex; justify-content: center; align-items: center;"> 
 <div style="text-align: center;"> 
