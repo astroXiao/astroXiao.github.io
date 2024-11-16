@@ -1,10 +1,10 @@
 ---
-layout: research
 title: HI-halo connection
-date: false
+excerpt: <img src='/files/NGC1316.png'><br/>Image credits: Paolo Serra, INAF, SARAO, ESO. The optical image of NGC1316, overlapped by the HI map (green) observed by MeerKAT.
+collection: portfolio
 ---
 
-    Measuring the HI properties in dark matter halos is essential to get a complete understanding of how galaxies evolve in halos. However, due to the limited sensitivity and resolution of current HI surveys, direct measurement of the abundance and spatial distribution of HI gas in dark matter halos is still difficult. I construct models to infer galaxy HI content from their optical properties and estimate the HI mass function in dark matter halos of different halo mass. These results can put strong constraints to galaxy formation and evolution models. (Details can be found in <u>[Li et al. 2022, ApJ, 941, 48](https://ui.adsabs.harvard.edu/abs/2022ApJ...941...48L/abstract)</u>).
+    Measuring the HI properties in dark matter halos is essential to get a complete understanding of how galaxies evolve in halos. However, due to the limited sensitivity and resolution of current HI surveys, direct measurement of the abundance and spatial distribution of HI gas in dark matter halos is still difficult. I construct models to infer galaxy HI content from their optical properties and estimate the HI mass function in dark matter halos of different halo masses. These results can put strong constraints to galaxy formation and evolution models. (Details can be found in <u>[Li et al. 2022, ApJ, 941, 48](https://ui.adsabs.harvard.edu/abs/2022ApJ...941...48L/abstract)</u>).
 
 <figure style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <div style="text-align: center;">
