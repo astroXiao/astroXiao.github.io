@@ -20,3 +20,12 @@ Work experience
 ======
 * Visiting scholar, Tsinghua Univerisity, Aug 2024 - present
   
+Awards
+======
+- National Scholarship, Tsinghua University, 2023
+- ACAMAR 9 prize for Best Chinese Poster, ACAMAR 9 Workshop, Perth, Australia, July 31 - Aug 2, 2023
+- Comprehensive Outstanding Scholarship, Tsinghua University, 2021
+- AMD Scholarship for graduate students at the Department of Astronomy, Tsinghua University, 2019
+- Outstanding Graduate Award, Beijing Normal University, 2019
+- Comprehensive Outstanding Scholarship for Undergraduates, 1st class, Beijing Normal Uni- versity, 2018
+- Comprehensive Outstanding Scholarship for Undergraduates, 1st class, Beijing Normal Uni- versity, 2016
