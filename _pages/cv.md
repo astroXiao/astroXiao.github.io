@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the complete CV at {% url_for "here" /files/CV.pdf %}
+You can download my CV at <a href="/files/CV.pdf" download>here</a>
 
 Education
 ======
