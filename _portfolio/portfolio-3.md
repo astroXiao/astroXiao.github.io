@@ -1,6 +1,6 @@
 ---
 title: Deep HI targeted survey of quenched massive galaxies
-excerpt: "<img src='/files/FAST.jpg'><br/>Image credit: NAOC. Five-hundred-meter Aperture Spherical radio Telescope."
+excerpt: "<img src='/files/FAST.png'><br/>Image credit: NAOC. Five-hundred-meter Aperture Spherical radio Telescope."
 collection: portfolio
 ---
 
