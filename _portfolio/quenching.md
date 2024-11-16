@@ -1,7 +1,7 @@
 ---
 title: Star formation & quenching
-date: false
-excerpt: <img src='/files/UGC1382.png'>
+excerpt: "<img src='/files/UGC1382.png'><br/>Image credits: NASA/JPL/Caltech/SDSS/NRAO. Optical image of UGC1382."
+collection: portfolio
 ---
 
 Most quiescent galaxies are found to be HI-poor. Thus it is believed that quiescent galaxies cease their star formation due to the lack of cold gas. However, we found 49 quenched but HI-rich (**RR**) galaxies from 30000+ existing HI sources, indicating that quenched galaxies can be HI-rich, but such case is very rare. <u>([Li et al. 2024, ApJ, 963, 86](https://ui.adsabs.harvard.edu/abs/2024ApJ...963...86L/abstract))</u>
