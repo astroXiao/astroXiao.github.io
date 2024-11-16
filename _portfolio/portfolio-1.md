@@ -1,6 +1,6 @@
 ---
 title: HI-halo connection
-excerpt: "<img src='/files/NGC1316.png'><br/>Image credits: Paolo Serra, INAF, SARAO, ESO. The optical image of NGC1316, overlapped by the HI map (green) observed by MeerKAT."
+excerpt: "<img src='/files/NGC1316.png' height="900"><br/>Image credits: Paolo Serra, INAF, SARAO, ESO. The optical image of NGC1316, overlapped by the HI map (green) observed by MeerKAT."
 collection: portfolio
 ---
 
